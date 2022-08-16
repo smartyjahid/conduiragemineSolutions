@@ -10,13 +10,12 @@
 # Unit 2 Task direct link here please cheack here.
 
  ### <h4>chapter two: Impelementation of multithreading<h4>
-  <h3> Task1:<a href="">Create 5 threads and print "Hello All" using Thread class</a><h3>
-  <br>  
-  <a href = "">Create 5 threads and print "Hello INDIA" using Runable Interface</a>
- <br>
-  <a href=""> Create a program which prints first 10 number using fixed thread<br>
-   pool of sized 5 . Execute them using Executor .
-   <br>Describe the behaviour of executor Framework</a>
+  <h3> Task 1: <a href="">Create 5 threads and print "Hello All" using Thread class</a></h3>
+ 
+   <h3> Task 2: <a href = "">Create 5 threads and print "Hello INDIA" using Runable Interface</a></h3>
+ 
+  <h3> Task 3: <a href=""> Create a program which prints first 10 number using fixed threadpool of sized 5 .
+   Execute them using Executor.Describe the behaviour of executor Framework</a></h3>
   
   
   
