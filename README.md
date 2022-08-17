@@ -11,13 +11,17 @@
 <br><br>
 # Unit 2 Task direct link here please check here.
 
- ### <h4>chapter two: Impelementation of multithreading<h4>
+ ### <h4>Activity two: Impelementation of multithreading<h4>
   <h3> Task 1: <a href="https://github.com/smartyjahid/conduiragemineSolutions/tree/main/unit2thread5helloall">Create 5 threads and print "Hello All" using Thread class</a></h3>
  
    <h3> Task 2: <a href = "https://github.com/smartyjahid/conduiragemineSolutions/tree/main/unit2runable5'HELLOINDIA'">Create 5 threads and print "Hello INDIA" using Runable Interface</a></h3>
  
   <h3> Task 3: <a href="https://github.com/smartyjahid/conduiragemineSolutions/tree/main/unit2ThreadPool'Executor'"> Create a program which prints first 10 number using fixed threadpool of sized 5 .
    Execute them using Executor.Describe the behaviour of executor Framework</a></h3>
+   
+  ### <h4>Activity Six: Impelementation of collection based Task's<h4>
+  
+  <h3>All Task of this activity here  →<a href = "https://github.com/smartyjahid/conduiragemineSolutions/tree/main/unit%202/activity%206">visit here</a>  </h3>
   
   
   
